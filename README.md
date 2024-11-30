@@ -2,6 +2,7 @@
 - [here document](https://thelinuxcode.com/what-is-cat-eof-bash-script/)
 - [regex cheatsheet](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions/Cheatsheet)
 - [sed guide](https://www.gnu.org/software/sed/manual/sed.html)
+- [awk guide](https://www.gnu.org/software/gawk/manual/gawk.html)
 ----
 - Configura sudo affinchè un utente possa eseguire solo un comando specifico (e.s: nmap)
   - ```bash
