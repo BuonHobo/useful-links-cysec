@@ -125,6 +125,7 @@
 ----
 Per tutta la roba iptables basta consultare il [manuale](https://linux.die.net/man/8/iptables) e la [guida di DigitalOcean](https://www.digitalocean.com/community/tutorials/iptables-essentials-common-firewall-rules-and-commands).
 Meglio ricordarsi quando si è in ssh di permettere le connessioni ESTABLISHED e RELATED per non venire disconnessi.
+Altra cosa buona è permettere il traffico in loopback
 
 - Imposta Iptables affinchè sia permesso l'accesso alla macchina solo via SSH (TCP port 22)
 - Imposta Iptables affinchè sia permesso l'accesso alla macchina solo via SSH (TCP port 22) dall'IP 1.2.3.4 e ad un webserver da qualunque IP (TCP port 80 e 443)
